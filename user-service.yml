@@ -1,6 +1,6 @@
 # user-service.yml
 token:
-  key: my_token_secret_key
+  key: "{cipher}76aaf4cda8d6a4648d36c3f271b460b2519b267ad907fa4c76b2075bfa5b5cf36c5f23a6731e35953aa30e9a285e3df3"
 
 default:
   message: user-service 에서 global profiles 에서 사용할 설정 정보들
