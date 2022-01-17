@@ -1,0 +1,7 @@
+# user-service-prod.yml
+spring:
+  datasource:
+    driver: com.h2.Driver
+    url: dbUrl
+    username: prod
+    password: prod
